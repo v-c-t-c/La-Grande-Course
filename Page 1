@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil - Projet sportif</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>RUNNING EVENT</h1>
+        <nav>
+            <a href="index.html" class="active">Accueil</a>
+            <a href="evenement.html">L'événement</a>
+            <a href="programme.html">Programme</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <p class="tagline">PROJET UNIVERSITAIRE</p>
+            <h2>Bienvenue sur mon site sportif</h2>
+            <p>
+                Découvrez un événement dédié à la course à pied,
+                au dépassement de soi et à l'esprit d'équipe.
+            </p>
+            <a href="evenement.html" class="btn">Découvrir la course</a>
+        </section>
+
+        <section class="container">
+            <h2>Présentation générale</h2>
+            <div class="card">
+                <h3>À propos de l'étudiant</h3>
+                <p><strong>Nom :</strong> Votre nom et prénom</p>
+                <p><strong>Formation :</strong> Votre formation</p>
+                <p><strong>Université :</strong> Nom de votre université</p>
+                <p><strong>Année universitaire :</strong> 2026-2027</p>
+            </div>
+
+            <div class="card">
+                <h3>Objectif du projet</h3>
+                <p>
+                    Ce site web a été réalisé dans le cadre d'un projet
+                    universitaire. Il a pour objectif de présenter une
+                    course sportive, ses caractéristiques et son programme.
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 - Projet universitaire | Running Event</p>
+    </footer>
+
+</body>
+</html>
